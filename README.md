@@ -1,6 +1,6 @@
 # android_device_samsung_gto
 
-## Device tree for Samsung Galaxy Tab (A) SM-T295 [gto]
+## Device tree for Samsung Galaxy Tab A 8.0 (2019) SM-T295 [gto]
 
 Basic   | Specifications
 -------:|:-------------------------
